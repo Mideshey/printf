@@ -69,9 +69,9 @@ All test files will be in the test directory.
 
 Authors
 
-Olukoya Oluwaseyi @gmail.com
+Olukoya Oluwaseyi
 
-Ibukun Obideyi ibukunobideyi@gmail.com
+Ibukun Obideyi
 
 Tasks
 
